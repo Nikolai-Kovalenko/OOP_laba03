@@ -1,0 +1,15 @@
+/home/nik/university/oop/laba3/ex3/bin/Debug/net6.0/ex3
+/home/nik/university/oop/laba3/ex3/bin/Debug/net6.0/ex3.deps.json
+/home/nik/university/oop/laba3/ex3/bin/Debug/net6.0/ex3.runtimeconfig.json
+/home/nik/university/oop/laba3/ex3/bin/Debug/net6.0/ex3.dll
+/home/nik/university/oop/laba3/ex3/bin/Debug/net6.0/ref/ex3.dll
+/home/nik/university/oop/laba3/ex3/bin/Debug/net6.0/ex3.pdb
+/home/nik/university/oop/laba3/ex3/obj/Debug/net6.0/ex3.csproj.AssemblyReference.cache
+/home/nik/university/oop/laba3/ex3/obj/Debug/net6.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nik/university/oop/laba3/ex3/obj/Debug/net6.0/ex3.AssemblyInfoInputs.cache
+/home/nik/university/oop/laba3/ex3/obj/Debug/net6.0/ex3.AssemblyInfo.cs
+/home/nik/university/oop/laba3/ex3/obj/Debug/net6.0/ex3.csproj.CoreCompileInputs.cache
+/home/nik/university/oop/laba3/ex3/obj/Debug/net6.0/ex3.dll
+/home/nik/university/oop/laba3/ex3/obj/Debug/net6.0/ref/ex3.dll
+/home/nik/university/oop/laba3/ex3/obj/Debug/net6.0/ex3.pdb
+/home/nik/university/oop/laba3/ex3/obj/Debug/net6.0/ex3.genruntimeconfig.cache
